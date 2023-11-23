@@ -57,7 +57,7 @@ The Play Store application review dataset consists of five sentiments (very posi
 
 ### Bert results on Play Store dataset.
 
-<img width="1311" alt="image" src="https://github.com/kasramojallal1/sentiment-analysis-playstore-imdb-reviews/assets/53012886/1455ea18-59d4-462d-9f2f-104db6dc19bd">
+<img width="600" alt="image" src="https://github.com/kasramojallal1/sentiment-analysis-playstore-imdb-reviews/assets/53012886/1455ea18-59d4-462d-9f2f-104db6dc19bd">
 
 
 
